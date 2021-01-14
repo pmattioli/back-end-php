@@ -1,0 +1,1574 @@
+msgid ""
+msgstr "Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-09-07 09:53+0200\nPO-Revision-Date: 2017-08-23 18:23+0200\nLast-Translator: \nLanguage-Team: \nLanguage: en_US\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Generator: Poedit 2.0.3\nX-Poedit-Basepath: .\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../api/uploadImage.php:78 ../api/v0/uploadImage.php:82
+#: ../helpers/StartView.php:135 ../upload.php:37
+msgid "The file uploaded doesn't have the correct file extension. Use only .jpg files."
+msgstr "El archivo subido no tiene la extensión de archivo correcta. Use sólo archivos .jpg."
+
+#: ../api/v0/uploadImage.php:94
+msgid "The file uploaded doesn't have the correct file extension. Use only .dcm files."
+msgstr "El archivo subido no tiene la extensión de archivo correcta. Use solamente archivos .dcm."
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:386
+msgid "New name detected"
+msgstr "Se detectó un nombre nuevo"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:387
+msgid "You have inputted a new name for an existing client. Do you want to change the name of the client?"
+msgstr "Ingresó un nombre nuevo para un cliente existente. ¿Desea cambiar el nombre del cliente?"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:388
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:292
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:300
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:307
+#: ../helpers/ImageListCreator.php:101 ../helpers/ImageListCreator.php:209
+#: ../pages/detailed.php:105 ../pages/detailed_update.php:350
+#: ../pages/start.php:105
+msgid "Client reference"
+msgstr "Referencia del cliente"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:389
+msgid "Existing name"
+msgstr "Nombre existente"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:390
+msgid "New name"
+msgstr "Nombre nuevo"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:394
+msgid "Use new name"
+msgstr "Usar nombre nuevo"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:395
+msgid "Use existing name"
+msgstr "Usar nombre existente"
+
+#: ../app/RetinaLyze/Images/FundusPhoto.php:396
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:119
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+#: ../helpers/ImageListCreator.php:264 ../helpers/ImageListCreator.php:273
+#: ../helpers/ImageListCreator.php:287 ../helpers/ImageListCreator.php:296
+#: ../pages/detailed.php:420 ../pages/detailed.php:428
+#: ../pages/detailed.php:465 ../pages/detailed.php:487
+#: ../pages/detailed_update.php:446 ../pages/detailed_update.php:468
+msgid "Ungradable"
+msgstr "No se puede calificar"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:155
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:160
+msgid "Could not create PDF"
+msgstr "No se pudo crear el PDF"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:215
+msgid "The screening and information provided do not replace a consultation with an ophthalmologist, who will be able to give you a more complete assessment of your vision and general eye health."
+msgstr "El screening (examen) e información proporcionades no reemplazan la consulta con un oftalmólogo, quien podrá darle una evaluación más completa de su visión y salud ocular en general."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:217
+msgid "Get more information about the RetinaLyze System at www.retinalyze.com"
+msgstr "Obtenga más información acerca de RetinaLyze System en www.retinalyze.com"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:220
+msgid "%system% has been scientifically tested and CE-marked according to Medical Device Directive 93/42/EEC from the 14th of June 1993 and Declaration 1263 from December 2008. %company% or any supplier hereof is not liable for any damages arising out of or in connection with the use or performance of this information, whether in an action of contract, negligence, or other tortious action. In states or areas which do not allow some or all of the above limitations of liability, liability shall be limited to the greatest extent allowed by law."
+msgstr "%system% ha sido probado científicamente y obtuvo la marca de certificación CE de acuerdo a la Medical Device Directive 93/42/EEC del 14 de junio de 1993 y a la Declaración 1263 de diciembre de 2008. %company% o cualquier proveedor del mismo no será responsable por cualquier daño que surja por o en conexión con el uso o desempeño de esta información, ya sea en actos contractuales, negligencia o en cualquier otro acto ilícito. En los estados o áreas donde no se permitan las limitaciones de responsabilidad anteriores, la responsabilidad se limitará al máximo alcance permitido por la ley."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:252
+#: ../helpers/ImageListCreator.php:94
+msgid "Date of screening"
+msgstr "Fecha de screening"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:253
+msgid "Screening id"
+msgstr "Screening Id./Nº"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:262
+msgid "Optician"
+msgstr "Óptica"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:290
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:296
+#: ../helpers/ImageListCreator.php:103 ../helpers/ImageListCreator.php:214
+#: ../pages/detailed.php:100 ../pages/detailed_update.php:349
+#: ../pages/start.php:109
+msgid "Name"
+msgstr "Nombre"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:316
+msgid "Dear customer"
+msgstr "Estimado/a cliente"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:321
+msgid "it is recommended to be aware and notice any of the symptoms of AMD. The symptoms, which you should watch out for are: blurry or blind spots in your central/reading vision, straight lines appearing wavy, or reduced vision. If you experience any of these symptoms, see an ophthalmologist as soon as possible."
+msgstr "se recomienda que presten atención a cualquiera de los síntomas de la DMAE. Los síntomas que debería observar son: visión borrosa o puntos negros en la parte central de su vision, que líneas rectas parezcan onduladas, o visión reducida. Si experimentase alguno de estos síntomas, consulte a un oftalmólogo lo antes posible."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:322
+msgid "On the basis of this analysis,"
+msgstr "En base a este análisis,"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:338
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:411
+msgid "%system% has performed an analysis on a photo of your retina."
+msgstr "%system% realizó un análisis sobre una foto de su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:340
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:425
+msgid "Result from %system% analysis"
+msgstr "Resultado del análisis del %system% "
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:342
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:382
+msgid "%system% has performed a DR and an AMD analysis on a photo of your retina."
+msgstr "%system% realizó un análisis de RD y DMAE sobre una foto de su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:343
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:384
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:464
+msgid "%system% AMD screens the photo for indications of drusen (presence of drusen can be an initial stage of AMD)."
+msgstr "%system% DMAE examina la foto en búsqueda de indicaciones de drusas (la presencia de drusas puede ser una etapa inical de DMAE)."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:344
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:385
+msgid "Results from %system% DR and AMD analysis"
+msgstr "Resultados de los análisis de RD y DMAE de %system%"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:348
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:417
+#, php-format
+msgid "%system% screens the photo for indications of minor haemorrhages and microaneurysms, which could be signs on diabetic retinopathy."
+msgstr "%system% examina la foto en busca de indicaciones de hemorragias menores y microaneurismas, que podrían ser signos de retinopatía diabética."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:350
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:383
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:419
+msgid "%system% DR screens the photo for indications of minor haemorrhages and microaneurysms."
+msgstr "%system% RD examina la foto en búsqueda de indicaciones de hemorragias y microaneurismas menores."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:353
+msgid "Eye specialist assessment"
+msgstr "Evaluación del especialista oftalmológico"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:356
+msgid "Could not create pdf document, please contact the support."
+msgstr "No se pudo crear el documento en pdf; sírvase ponerse en contacto con el soporte."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:358
+msgid "Could not create pdf document, because the photo was ungradable."
+msgstr "No se pudo crear el documento pdf, porque no se pudo calificar la foto."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:360 ../pages/detailed.php:505
+msgid "No indications were discovered during the assessment. Based on this assessment, no reason has been found for scheduling a (new) consultation with an ophthalmologist."
+msgstr "No se descubrieron indicaciones durante la evaluación. En base a esta evaluación, no se encontraron razones para programar una (nueva) consulta con un oftalmólogo."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:361
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:368
+msgid "Beside the above stated comments, no other pathological conditions are found nor registered based on the submitted fundus photos. Any already scheduled consultations with a physician and/or an ophthalmologist should therefore be honoured regardless of the above findings."
+msgstr "Aparte de los comentarios mencionados anteriormente, no se encontraron ni registraron otras condiciones patológicas en base a las fotos del fondo de ojos enviadas. Cualquier consulta ya programada con un médico y/o oftalmólogo debe ser atendida independientemente de las conclusiones anteriores."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:366
+msgid "Any already scheduled consultations with a physician and/or an ophthalmologist should be honoured regardless of the above findings."
+msgstr "Cualquier consulta ya programada con un médico y/u oftalmólogo debería honrarse sin importar los resultados mencionados arriba. "
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:366
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:368
+msgid "However, if the recommendations require earlier or urgent attention, these should be carried out before any already scheduled consultations."
+msgstr "Sin embargo, si las recomendaciones requiriesen atención anticipada o urgente, estas deberían llevarse a cabo antes de cualquier consulta ya programada."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:372
+msgid "An eye specialist has reviewed the photo and gives the following response:"
+msgstr "Un especialista oftalmológico revisó la foto y da la siguiente respuesta:"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:386
+msgid "Results of screening"
+msgstr "Resultados del screening"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:387
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:434
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:468
+msgid "Recommendation"
+msgstr "Recomendación"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:389
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:399
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:441
+msgid "%system% DR has not found indications of the above mentioned alterations on your retina."
+msgstr "%system% RD no encontró indicaciones de las alteraciones mencionadas anteriormente en su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:389
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:392
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:395
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:470
+msgid "%system% AMD has not found indications of the above mentioned alterations on your retina."
+msgstr "%system% DMAE no encontró indicaciones de las alteraciones mencionadas anteriormente en su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:390
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:442
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:471
+msgid "On the basis of this analysis, there is not found any reason for contacting an ophthalmologist earlier than already scheduled."
+msgstr "En base a este análisis, no se encontró razón alguna para ponerse en contacto con su oftalmólogo habitual antes de la consulta ya programada."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:392
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:402
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:449
+msgid "%system% DR has found a few indications of the above mentioned alterations on your retina."
+msgstr "%system% RD encontró unas pocas indicaciones de las alteraciones mencionadas anteriormente en su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:393
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:403
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:450
+msgid "On the basis of this analysis, it is recommended to have the analysis repeated in 3 months or to contact an ophthalmologist."
+msgstr "En base a este análisis, se recomienda repetir el análisis en 3 meses para un nuevo examen o ponerse en contacto con su oftalmólogo."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:395
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:405
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:457
+msgid "%system% DR has found a number of indications of the above mentioned alterations on your retina."
+msgstr "%system% RD encontró varias de las alteraciones mencionadas anteriormente en su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:396
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:406
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:458
+msgid "On the basis of this analysis, it is recommended to contact an ophthalmologist in the near future (weeks) for further examination."
+msgstr "En base a este análisis, se recomienda ponerse en contacto con su oftalmólogo en un futuro próximo (semanas) para posibles exámenes adicionales."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:399
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:402
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:405
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:473
+msgid "%system% AMD has found indications of drusen on your retina."
+msgstr "%system% DMAE encontró indicaciones de drusas en su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:413
+msgid "%system% has performed a DR analysis on a photo of your retina."
+msgstr "%system% realizó un análisis de RD sobre una foto de su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:427
+msgid "Result from %system% DR analysis"
+msgstr "Resultado del análisis RD de %system%"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:430
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:467
+msgid "Result of screening"
+msgstr "Resultado del screening"
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:438
+msgid "%system% has not found indications of the above mentioned alterations on your retina."
+msgstr "%system% no encontró indicaciones de las alteraciones arriba mencionadas en su retina. "
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:438
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:446
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:454
+msgid "Note that %system% is developed only to diabetic retinopathy screening and it’s not a diagnosis. In addition, it doesn’t exclude any other eye diseases."
+msgstr "Tenga en cuenta que %system% se desarrolló solamente para la detección de retinopatía diabética y no es un diagnóstico. Además, no excluye otras enfermedades oculares."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:446
+msgid "%system% has found a few indications of the above mentioned alterations on your retina."
+msgstr "%system% encontró algunas indicaciones de las alteraciones arriba mencionadas en su retina. "
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:454
+msgid "%system% has found a number of indications of the above mentioned alterations on your retina."
+msgstr "%system% encontró una cantidad de indicaciones de las alteraciones arriba mencionadas en su retina. "
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:463
+msgid "%system% has performed an AMD analysis on a photo of your retina."
+msgstr "%system% realizó un análisis de DMAE sobre la foto de su retina."
+
+#: ../app/RetinaLyze/PDF/PDFGenerator.php:466
+msgid "Result from %system% AMD analysis"
+msgstr "Resultado del análisis DMAE de %system%"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:46
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:57
+msgid "Total number of accounts"
+msgstr "Cantidad total de cuentas"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:47
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:58
+msgid "New accounts this month"
+msgstr "Cuentas nuevas este mes"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:70
+msgid "Users outside chain"
+msgstr "Usuarios fuera de la cadena"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:107
+msgid "Click for statistics splitted per day"
+msgstr "Haga clic para las estadísticas divididas por día"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:109
+msgid "Click for statistics splitted per month"
+msgstr "Haga clic para las estadísticas divididas por mes"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:119
+msgid "Click for more statistics"
+msgstr "Haga clic para más estadísticas"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:136
+msgid "No screenings performed"
+msgstr "No se realizaron exámenes de detección"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:138
+msgid "No screenings performed within this year"
+msgstr "No se realizaron exámenes de detección dentro de este año"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:202
+msgid "Month"
+msgstr "Mes"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:204
+msgid "Day"
+msgstr "Día"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "DR count"
+msgstr "RD contador"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "AMD count"
+msgstr "DMAE contador"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "Total"
+msgstr "Total"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "Assessments"
+msgstr "Evaluaciones"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "Yellow DR"
+msgstr "RD Amarillo"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "Red DR"
+msgstr "RD Rojo"
+
+#: ../app/RetinaLyze/Statistics/StatisticsHandler.php:206
+msgid "Yellow AMD"
+msgstr "DMAE amarilla"
+
+#: ../app/RetinaLyze/Utils/AdminUtils.php:26
+msgid "Choose country"
+msgstr "Elige pais"
+
+#: ../app/RetinaLyze/Utils/AdminUtils.php:53
+#: ../app/RetinaLyze/Utils/AdminUtils.php:72 ../pages/editusers.php:74
+msgid "Chains"
+msgstr "Cadenas"
+
+#: ../footer.php:18 ../footer.php:78
+msgid "Support"
+msgstr "Ayuda"
+
+#: ../footer.php:42 ../footer.php:103
+msgid "Information"
+msgstr "Información"
+
+#: ../footer.php:45 ../footer.php:106
+msgid "About us"
+msgstr "Sobre nosotros"
+
+#: ../footer.php:46 ../footer.php:109
+msgid "How it works"
+msgstr "Como funciona"
+
+#: ../footer.php:53 ../footer.php:125
+msgid "Follow Us"
+msgstr "Siguenos en"
+
+#: ../footer.php:63 ../footer.php:137
+msgid "Headquarters"
+msgstr "Oficina central"
+
+#: ../footer.php:107
+msgid "Contact us"
+msgstr "Contacto"
+
+#: ../footer.php:108
+msgid "Press"
+msgstr "Prensa"
+
+#: ../footer.php:110
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ../footer.php:117
+msgid "News"
+msgstr "Noticias"
+
+#: ../footer.php:119
+msgid "Get the latest news here"
+msgstr "Recibe las últimas noticias aquí"
+
+#: ../footer.php:143 ../helpers/ImageListCreator.php:109 ../pages/login.php:108
+#: ../sso/index.php:67
+msgid "Email"
+msgstr "correo electrónico"
+
+#: ../footer.php:144 ../pages/createuser.php:59 ../pages/edituser.php:118
+#: ../pages/login.php:112 ../pages/profile.php:146 ../sso/index.php:69
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../header.php:193
+msgid "Hide Menu"
+msgstr "Ocultar Menú"
+
+#: ../header.php:193
+msgid "Show Menu"
+msgstr "Mostrar menú"
+
+#: ../header.php:205
+msgid "Automated diabetic retinopathy screening"
+msgstr "Detección automática de retinopatía diabética"
+
+#: ../header.php:221 ../header.php:223 ../pages/detailed_update.php:130
+#: ../pages/detailed_update.php:139
+msgid "Optometrist"
+msgstr "Optometrista"
+
+#: ../header.php:227 ../header.php:231 ../header.php:282 ../header.php:288
+#: ../pages/start.php:25
+msgid "Archive"
+msgstr "Archivo"
+
+#: ../header.php:238 ../header.php:240
+msgid "Ophthalmologist"
+msgstr "Oftalmólogo"
+
+#: ../header.php:241 ../header.php:298 ../header.php:319
+msgid "Done"
+msgstr "Hecho"
+
+#: ../header.php:249 ../header.php:301
+msgid "Get report"
+msgstr "Obtener informe"
+
+#: ../header.php:253 ../header.php:255
+msgid "Admin"
+msgstr "Admón."
+
+#: ../header.php:256
+msgid "Create User"
+msgstr "Crear usuario"
+
+#: ../header.php:257 ../pages/edituser.php:30 ../pages/editusers.php:31
+msgid "Edit users"
+msgstr "Editar usuarios"
+
+#: ../header.php:258 ../header.php:325 ../header.php:355
+#: ../pages/profile.php:184 ../pages/statistics.php:12
+msgid "Statistics"
+msgstr "Estadística"
+
+#: ../header.php:259 ../pages/editchains.php:46
+msgid "Edit chains"
+msgstr "Editar cadenas"
+
+#: ../header.php:268 ../header.php:274 ../header.php:295 ../header.php:316
+#: ../pages/start.php:31
+msgid "Overview"
+msgstr "Visión General"
+
+#: ../header.php:332 ../helpers/StartView.php:312 ../helpers/StartView.php:343
+#: ../helpers/StartView.php:347 ../pages/editusers.php:108
+#: ../pages/editusers.php:117 ../pages/editusers.php:121 ../pages/start.php:28
+#: ../pages/start.php:66 ../pages/start.php:74 ../pages/start.php:78
+msgid "Search"
+msgstr "Buscar"
+
+#: ../header.php:343 ../header.php:354 ../pages/profile.php:50
+msgid "Account"
+msgstr "Cuenta"
+
+#: ../header.php:356 ../pages/profile.php:183
+msgid "Log out"
+msgstr "Finalizar sesión"
+
+#: ../helpers/ImageListCreator.php:96
+msgid "User"
+msgstr "Usuario"
+
+#: ../helpers/ImageListCreator.php:99
+msgid "Photo"
+msgstr "Foto"
+
+#: ../helpers/ImageListCreator.php:106 ../pages/detailed.php:500
+msgid "Comment from eye-specialist"
+msgstr "Comentario del especialista ocular"
+
+#: ../helpers/ImageListCreator.php:112
+msgid "DR status"
+msgstr "Estado de RD"
+
+#: ../helpers/ImageListCreator.php:116
+msgid "AMD status"
+msgstr "Estado DMAE"
+
+#: ../helpers/ImageListCreator.php:119
+msgid "Assessment"
+msgstr "Evaluación"
+
+#: ../helpers/ImageListCreator.php:122 ../helpers/ImageListCreator.php:189
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../helpers/ImageListCreator.php:167
+msgid "Send an email with the results to your own email"
+msgstr "Enviar un correo electrónico con los resultados a su propio correo electrónico"
+
+#: ../helpers/ImageListCreator.php:199
+msgid "Add client info"
+msgstr "Agregar información del cliente"
+
+#: ../helpers/ImageListCreator.php:207
+msgid "Update client info"
+msgstr "Actualizar información del cliente"
+
+#: ../helpers/ImageListCreator.php:208
+msgid "Input the client data for the image"
+msgstr "Ingresar los datos del cliente para la imagen"
+
+#: ../helpers/ImageListCreator.php:221
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../helpers/ImageListCreator.php:268 ../helpers/ImageListCreator.php:291
+msgid "Analysis not runned"
+msgstr "El análisis no se ha ejecutado."
+
+#: ../helpers/ImageListCreator.php:270
+msgid "Run DR analysis"
+msgstr "Ejecute análisis RD"
+
+#: ../helpers/ImageListCreator.php:275 ../pages/detailed.php:419
+#: ../pages/detailed.php:477 ../pages/detailed_update.php:458
+msgid "Several alterations found"
+msgstr "Varias alteraciones encontradas"
+
+#: ../helpers/ImageListCreator.php:277 ../pages/detailed.php:418
+#: ../pages/detailed.php:473 ../pages/detailed_update.php:454
+msgid "Few alterations found"
+msgstr "Pocas alteraciones encontradas"
+
+#: ../helpers/ImageListCreator.php:279 ../helpers/ImageListCreator.php:300
+#: ../pages/detailed.php:417 ../pages/detailed.php:426
+#: ../pages/detailed.php:469 ../pages/detailed.php:491
+#: ../pages/detailed_update.php:450 ../pages/detailed_update.php:472
+msgid "No immediate alterations"
+msgstr "No hay alteraciones inmediatas"
+
+#: ../helpers/ImageListCreator.php:293
+msgid "Run AMD analysis"
+msgstr "Ejecute análisis DMAE"
+
+#: ../helpers/ImageListCreator.php:298 ../pages/detailed.php:427
+#: ../pages/detailed.php:495 ../pages/detailed_update.php:476
+msgid "Indications of AMD"
+msgstr "Indicios de DMAE encontrados"
+
+#: ../helpers/ImageListCreator.php:323
+msgid "Get assessment by eye specialist"
+msgstr "Obtener evaluación por un oftalmólogo"
+
+#: ../helpers/ImageListCreator.php:326
+msgid "Send to eye specialist"
+msgstr "Enviar a especialista"
+
+#: ../helpers/ImageListCreator.php:333
+msgid "General information"
+msgstr "Información general"
+
+#: ../helpers/ImageListCreator.php:340
+msgid "Social security number (DDMMÅÅ-XXXX)"
+msgstr "Social security number (DDMMÅÅ-XXXX)"
+
+#: ../helpers/ImageListCreator.php:347 ../pages/detailed.php:151
+#: ../pages/detailed_update.php:162
+msgid "Client's age"
+msgstr "Edad del cliente"
+
+#: ../helpers/ImageListCreator.php:354 ../pages/detailed.php:161
+#: ../pages/detailed_update.php:202
+msgid "Current visus OD"
+msgstr "Agudeza visual actual OD "
+
+#: ../helpers/ImageListCreator.php:357 ../helpers/ImageListCreator.php:380
+#: ../helpers/ImageListCreator.php:394 ../helpers/ImageListCreator.php:404
+#: ../helpers/ImageListCreator.php:427 ../helpers/ImageListCreator.php:531
+#: ../helpers/ImageListCreator.php:587
+msgid "N/A"
+msgstr "N/D"
+
+#: ../helpers/ImageListCreator.php:377 ../pages/detailed.php:179
+#: ../pages/detailed_update.php:172
+msgid "Last ophthalmologist consultation"
+msgstr "Última consulta oftalmológica"
+
+#: ../helpers/ImageListCreator.php:381 ../helpers/ImageListCreator.php:429
+#: ../helpers/ImageListCreator.php:629 ../helpers/ImageListCreator.php:630
+#: ../pages/detailed.php:182 ../pages/detailed.php:204
+#: ../pages/detailed.php:320 ../pages/detailed.php:323
+#: ../pages/detailed_update.php:175 ../pages/detailed_update.php:212
+#: ../pages/detailed_update.php:313 ../pages/detailed_update.php:316
+msgid "months"
+msgstr "meses"
+
+#: ../helpers/ImageListCreator.php:382 ../helpers/ImageListCreator.php:383
+#: ../helpers/ImageListCreator.php:455 ../helpers/ImageListCreator.php:456
+#: ../helpers/ImageListCreator.php:457 ../pages/detailed.php:185
+#: ../pages/detailed.php:188 ../pages/detailed.php:207
+#: ../pages/detailed.php:210 ../pages/detailed.php:230
+#: ../pages/detailed.php:233 ../pages/detailed.php:236
+#: ../pages/detailed_update.php:178 ../pages/detailed_update.php:181
+#: ../pages/detailed_update.php:215 ../pages/detailed_update.php:218
+#: ../pages/detailed_update.php:236 ../pages/detailed_update.php:239
+#: ../pages/detailed_update.php:242
+msgid "years"
+msgstr "años"
+
+#: ../helpers/ImageListCreator.php:384 ../pages/detailed.php:191
+#: ../pages/detailed_update.php:184
+msgid "Never"
+msgstr "Nunca"
+
+#: ../helpers/ImageListCreator.php:391 ../pages/detailed.php:166
+#: ../pages/detailed_update.php:190
+msgid "Amsler test"
+msgstr "Prueba de Amsler"
+
+#: ../helpers/ImageListCreator.php:395 ../pages/detailed.php:169
+#: ../pages/detailed_update.php:193
+msgid "Show signs of visual defects"
+msgstr "Mostrar signos de defectos visuales"
+
+#: ../helpers/ImageListCreator.php:396 ../pages/detailed.php:172
+#: ../pages/detailed_update.php:196
+msgid "No signs of visual defects"
+msgstr "Sin signos de defectos visuales"
+
+#: ../helpers/ImageListCreator.php:401 ../pages/detailed.php:156
+#: ../pages/detailed_update.php:167
+msgid "Current visus OS"
+msgstr "Agudeza visual actual OI"
+
+#: ../helpers/ImageListCreator.php:424 ../pages/detailed.php:198
+#: ../pages/detailed_update.php:206
+msgid "Next ophthalmologist consultation"
+msgstr "Próxima consulta con el oftalmólogo"
+
+#: ../helpers/ImageListCreator.php:428 ../pages/detailed.php:201
+#: ../pages/detailed_update.php:209
+msgid "month"
+msgstr "mes"
+
+#: ../helpers/ImageListCreator.php:430 ../helpers/ImageListCreator.php:431
+#: ../helpers/ImageListCreator.php:454 ../helpers/ImageListCreator.php:631
+#: ../pages/detailed.php:227 ../pages/detailed.php:326
+#: ../pages/detailed_update.php:233 ../pages/detailed_update.php:319
+msgid "year"
+msgstr "año"
+
+#: ../helpers/ImageListCreator.php:432 ../pages/detailed.php:213
+#: ../pages/detailed_update.php:221
+msgid "No consultation scheduled"
+msgstr "No se programó una consulta"
+
+#: ../helpers/ImageListCreator.php:441
+msgid "Information relating to Diabetic Retinopathy"
+msgstr "Información relacionada con la Retinopatía diabética"
+
+#: ../helpers/ImageListCreator.php:445 ../pages/detailed.php:220
+#: ../pages/detailed_update.php:227
+msgid "Client is diagnosed with diabetes"
+msgstr "Se diagnosticó diabetes al cliente"
+
+#: ../helpers/ImageListCreator.php:450 ../pages/detailed.php:224
+#: ../pages/detailed_update.php:230
+msgid "Duration of diabetes"
+msgstr "Duración de la diabetes"
+
+#: ../helpers/ImageListCreator.php:467
+msgid "Information relating to glaucoma"
+msgstr "Información relacionada con el glaucoma"
+
+#: ../helpers/ImageListCreator.php:471 ../pages/detailed.php:243
+#: ../pages/detailed_update.php:248
+msgid "Intraocular pressure"
+msgstr "Presión intraocular "
+
+#: ../helpers/ImageListCreator.php:480 ../pages/detailed.php:246
+#: ../pages/detailed_update.php:251
+msgid "Intraocular pressure corrected for CCT"
+msgstr "Presión intraocular corregida para ECC"
+
+#: ../helpers/ImageListCreator.php:483 ../pages/detailed.php:250
+#: ../pages/detailed_update.php:254
+msgid "Family history of glaucoma"
+msgstr "Antecedentes familiares de glaucoma"
+
+#: ../helpers/ImageListCreator.php:490
+msgid "Reason for sending photo"
+msgstr "Razón para enviar la foto"
+
+#: ../helpers/ImageListCreator.php:494
+msgid "Why do you want to get this photo assessed?"
+msgstr "¿Por qué desea que se evalúe esta foto?"
+
+#: ../helpers/ImageListCreator.php:504 ../pages/detailed.php:259
+#: ../pages/detailed_update.php:260
+msgid "Symptoms of client"
+msgstr "Síntomas del cliente"
+
+#: ../helpers/ImageListCreator.php:505 ../pages/detailed.php:262
+#: ../pages/detailed_update.php:263
+msgid "I have noticed something on the photo"
+msgstr "Noté algo en la foto"
+
+#: ../helpers/ImageListCreator.php:506 ../pages/detailed.php:265
+#: ../pages/detailed_update.php:266
+msgid "Result of algorithm"
+msgstr "Resultado del algoritmo"
+
+#: ../helpers/ImageListCreator.php:507 ../helpers/ImageListCreator.php:560
+#: ../helpers/ImageListCreator.php:615 ../pages/detailed.php:268
+#: ../pages/detailed.php:297 ../pages/detailed.php:345
+#: ../pages/detailed_update.php:269 ../pages/detailed_update.php:294
+#: ../pages/detailed_update.php:337
+msgid "Other"
+msgstr "Otras"
+
+#: ../helpers/ImageListCreator.php:513 ../pages/detailed.php:304
+#: ../pages/detailed_update.php:300
+msgid "Eye prescription before OD"
+msgstr "Receta ocular antes de OD"
+
+#: ../helpers/ImageListCreator.php:521 ../pages/detailed.php:308
+#: ../pages/detailed_update.php:303
+msgid "Eye prescription after OD"
+msgstr "Receta ocular después de OD"
+
+#: ../helpers/ImageListCreator.php:528 ../pages/detailed.php:312
+#: ../pages/detailed_update.php:306
+msgid "Visus before OD"
+msgstr "Agudeza visual antes OD"
+
+#: ../helpers/ImageListCreator.php:554 ../pages/detailed.php:288
+#: ../pages/detailed_update.php:285
+msgid "Which symptom?"
+msgstr "¿Qué síntoma?"
+
+#: ../helpers/ImageListCreator.php:558 ../pages/detailed.php:291
+#: ../pages/detailed_update.php:288
+msgid "Loss of vision"
+msgstr "Pérdida de visión"
+
+#: ../helpers/ImageListCreator.php:559 ../pages/detailed.php:294
+#: ../pages/detailed_update.php:291
+msgid "Change in eyeglass prescription"
+msgstr "Cambio en la receta de anteojos"
+
+#: ../helpers/ImageListCreator.php:567 ../pages/detailed.php:275
+#: ../pages/detailed_update.php:275
+msgid "Eye prescription before OS"
+msgstr "Receta ocular antes de OI"
+
+#: ../helpers/ImageListCreator.php:576 ../pages/detailed.php:279
+#: ../pages/detailed_update.php:278
+msgid "Eye prescription after OS"
+msgstr "Receta ocular después de OI"
+
+#: ../helpers/ImageListCreator.php:584 ../pages/detailed.php:283
+#: ../pages/detailed_update.php:281
+msgid "Visus before OS"
+msgstr "Agudeza visual antes OI"
+
+#: ../helpers/ImageListCreator.php:608 ../pages/detailed.php:333
+#: ../pages/detailed_update.php:325
+msgid "Position"
+msgstr "Posición"
+
+#: ../helpers/ImageListCreator.php:612 ../pages/detailed.php:336
+#: ../pages/detailed_update.php:328
+msgid "Periphery"
+msgstr "Periferia"
+
+#: ../helpers/ImageListCreator.php:613 ../pages/detailed.php:339
+#: ../pages/detailed_update.php:331
+msgid "Optic nerve head"
+msgstr "Cabeza del nervio óptico"
+
+#: ../helpers/ImageListCreator.php:614 ../pages/detailed.php:342
+#: ../pages/detailed_update.php:334
+msgid "Macula"
+msgstr "Mácula"
+
+#: ../helpers/ImageListCreator.php:625 ../pages/detailed.php:317
+#: ../pages/detailed_update.php:310
+msgid "Period of change"
+msgstr "Período de cambio"
+
+#: ../helpers/ImageListCreator.php:639 ../pages/detailed.php:353
+#: ../pages/detailed.php:437 ../pages/detailed_update.php:343
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../helpers/ImageListCreator.php:639
+msgid "optional"
+msgstr "opcional"
+
+#: ../helpers/ImageListCreator.php:642
+msgid "Comments must be written in English"
+msgstr "Los comentarios deben estar escritos en inglés"
+
+#: ../helpers/ImageListCreator.php:655 ../helpers/ImageListCreator.php:659
+msgid "I accept the ToS"
+msgstr "Acepto los términos del servicio"
+
+#: ../helpers/ImageListCreator.php:751
+msgid "Please input the CPR"
+msgstr "Ingrese el CPR"
+
+#: ../helpers/ImageListCreator.php:755
+msgid "Please input the age"
+msgstr "Ingrese la edad"
+
+#: ../helpers/ImageListCreator.php:762
+msgid "Please accept the ToS"
+msgstr "Por favor, acepte el ToS"
+
+#: ../helpers/ImageListCreator.php:769
+msgid "Please input reason"
+msgstr "Por favor, ingrese el motivo"
+
+#: ../helpers/ReferralHandler.php:99
+msgid "New comment received regarding photo"
+msgstr "Se recibió un nuevo comentario respecto a la foto"
+
+#: ../helpers/ReferralHandler.php:99
+msgid "Our specialist has commented on your photo. See the comment and photo here:"
+msgstr "Nuestro especialista comentó acerca de la foto. Vea el comentario y la foto aquí:"
+
+#: ../helpers/StartView.php:21
+msgid "The photo is now removed."
+msgstr "La foto se ha eliminado."
+
+#: ../helpers/StartView.php:23 ../helpers/StartView.php:138
+#: ../helpers/StartView.php:144 ../helpers/StartView.php:157
+#: ../helpers/StartView.php:163 ../helpers/StartView.php:176
+#: ../helpers/StartView.php:179 ../helpers/StartView.php:199
+#: ../helpers/StartView.php:202 ../helpers/StartView.php:214
+#: ../pages/createuser.php:45 ../pages/editchains.php:64
+#: ../pages/editchains.php:116 ../pages/edituser.php:48 ../pages/profile.php:68
+msgid "Some error occured. Please try again."
+msgstr "Se produjo un error. Por favor, vuelva a intentarlo."
+
+#: ../helpers/StartView.php:131
+msgid "The photo is uploaded."
+msgstr "La foto está subida."
+
+#: ../helpers/StartView.php:141 ../helpers/StartView.php:160
+msgid "Please input both name and client reference."
+msgstr "Ingrese tanto el nombre como la referencia del cliente."
+
+#: ../helpers/StartView.php:153
+msgid "Client information is added to photo."
+msgstr "La información del cliente está agregada a la foto."
+
+#: ../helpers/StartView.php:172
+msgid "The client name is now changed."
+msgstr "Ahora cambió el nombre del cliente."
+
+#: ../helpers/StartView.php:195
+msgid "The photo is analyzed."
+msgstr "La foto está analizada."
+
+#: ../helpers/StartView.php:205
+msgid "You've reached your limit for number of screenings or your trial-period has expired"
+msgstr "Alcanzó la cantidad límite de exámenes o venció su período de prueba"
+
+#: ../helpers/StartView.php:208
+msgid "You have already started running a analysis on this photo."
+msgstr "Ya comenzó a ejecutar un análisis sobre esta foto."
+
+#: ../helpers/StartView.php:211
+msgid "The photo have already been analyzed."
+msgstr "La foto ya se analizó."
+
+#: ../helpers/StartView.php:289
+msgid "Photos not sent"
+msgstr "No se enviaron las fotos"
+
+#: ../helpers/StartView.php:289
+msgid "Not analyzed photos"
+msgstr "Fotos no analizadas"
+
+#: ../helpers/StartView.php:309
+msgid "Found photos"
+msgstr "Fotos encontradas"
+
+#: ../helpers/StartView.php:315
+msgid "Analyzed photos"
+msgstr "Fotos analizadas"
+
+#: ../helpers/StartView.php:319
+msgid "Photos awaiting response"
+msgstr "Fotos que esperan respuesta"
+
+#: ../helpers/StartView.php:322
+msgid "Assessed photos"
+msgstr "Fotos evaluadas"
+
+#: ../helpers/StartView.php:326
+msgid "Sent photos"
+msgstr "Fotos enviadas"
+
+#: ../helpers/StartView.php:326
+msgid "Analyzed photos (last 7 days)"
+msgstr "Fotos analizadas (últimos 7 días)"
+
+#: ../helpers/StartView.php:339 ../pages/start.php:70
+msgid "Search by name or ID"
+msgstr "Buscar por nombre o por ID"
+
+#: ../helpers/StartView.php:358
+msgid "Are you looking for newer photos? Click here to go the Overview"
+msgstr "¿Está buscando nuevas fotos? Haga clic aquí para ir a la Visión General"
+
+#: ../helpers/StartView.php:379
+msgid "We could not find any photos based on your search."
+msgstr "No pudimos encontrar ninguna foto en base a su búsqueda."
+
+#: ../helpers/StartView.php:381
+msgid "Go to the overview"
+msgstr "Ir al resumen"
+
+#: ../helpers/StartView.php:384
+msgid "You have not analyzed any photos."
+msgstr "No analizó ninguna foto."
+
+#: ../helpers/StartView.php:390
+msgid "No photos are awaiting assessment"
+msgstr "No hay fotos esperando evaluación"
+
+#: ../helpers/StartView.php:393
+msgid "No photos assessed within the last 14 days"
+msgstr "No se evaluaron fotos en los últimos 14 días"
+
+#: ../helpers/StartView.php:397
+msgid "You do not have any photos that have been analyzed within the last 7 days"
+msgstr "No tiene ninguna foto que haya sido analizada dentro de los últimos 7 días"
+
+#: ../helpers/StartView.php:403
+msgid "Go to your archive"
+msgstr "Vaya a su archivo"
+
+#: ../pages/createuser.php:29
+msgid "Create user"
+msgstr "Crear usuario"
+
+#: ../pages/createuser.php:43
+msgid "User is now created"
+msgstr "El usuario está creado ahora"
+
+#: ../pages/createuser.php:50 ../pages/detailed.php:126
+#: ../pages/edituser.php:65 ../pages/login.php:47 ../pages/profile.php:103
+#: ../sso/index.php:59
+msgid "Username"
+msgstr "Usuario"
+
+#: ../pages/createuser.php:51 ../pages/edituser.php:67 ../pages/login.php:48
+#: ../sso/index.php:60
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../pages/createuser.php:52
+msgid "Trial user"
+msgstr "Usuario de prueba"
+
+#: ../pages/createuser.php:53 ../pages/edituser.php:112
+#: ../pages/profile.php:144
+msgid "Company name"
+msgstr "Nombre de la empresa"
+
+#: ../pages/createuser.php:54 ../pages/edituser.php:113
+#: ../pages/profile.php:145
+msgid "Name of contact person"
+msgstr "Nombre de la persona de contacto"
+
+#: ../pages/createuser.php:55 ../pages/edituser.php:114
+#: ../pages/profile.php:147
+msgid "Tax no."
+msgstr "Nro. imp."
+
+#: ../pages/createuser.php:56 ../pages/edituser.php:115
+#: ../pages/profile.php:148 ../sso/index.php:71
+msgid "Address"
+msgstr "Dirección"
+
+#: ../pages/createuser.php:57 ../pages/edituser.php:116
+#: ../pages/profile.php:149
+msgid "Zipcode"
+msgstr "Código postal"
+
+#: ../pages/createuser.php:58 ../pages/edituser.php:117
+#: ../pages/profile.php:150
+msgid "City"
+msgstr "Ciudad"
+
+#: ../pages/createuser.php:60 ../pages/edituser.php:119
+#: ../pages/profile.php:151
+msgid "Country"
+msgstr "País"
+
+#: ../pages/createuser.php:61 ../pages/edituser.php:120
+msgid "Language"
+msgstr "Idioma"
+
+#: ../pages/createuser.php:62 ../pages/edituser.php:121
+msgid "Chain"
+msgstr "Cadena"
+
+#: ../pages/createuser.php:63 ../pages/edituser.php:122
+msgid "Camera"
+msgstr "Cámara"
+
+#: ../pages/createuser.php:64 ../pages/edituser.php:76
+msgid "Global eye specialist assessment"
+msgstr "Evaluación global del oftalmólogo"
+
+#: ../pages/createuser.php:64
+msgid "No"
+msgstr "No"
+
+#: ../pages/createuser.php:64
+msgid "Yes"
+msgstr "Sí"
+
+#: ../pages/createuser.php:65
+msgid "Create"
+msgstr "Crear"
+
+#: ../pages/detailed.php:32 ../pages/detailed.php:46 ../pages/detailed.php:89
+#: ../pages/detailed_update.php:45 ../pages/detailed_update.php:57
+#: ../pages/detailed_update.php:115
+msgid "Photo details"
+msgstr "Detalles de la foto"
+
+#: ../pages/detailed.php:47 ../pages/detailed_update.php:67
+#: ../pages/editchains.php:70 ../pages/edituser.php:53
+#: ../pages/editusers.php:53 ../pages/editusers.php:72 ../pages/mailpid.php:47
+#: ../pages/send_response.php:34
+msgid "Back"
+msgstr "Atrás"
+
+#: ../pages/detailed.php:50 ../pages/detailed_update.php:60
+msgid "Toggle DR overlay"
+msgstr "Alternar capa RD"
+
+#: ../pages/detailed.php:53 ../pages/detailed_update.php:63
+msgid "Toggle AMD overlay"
+msgstr "Alternar capa DMAE"
+
+#: ../pages/detailed.php:62 ../pages/detailed_update.php:96
+msgid "Zoom In"
+msgstr "Acercar"
+
+#: ../pages/detailed.php:63 ../pages/detailed_update.php:97
+msgid "Zoom Out"
+msgstr "Alejar"
+
+#: ../pages/detailed.php:64 ../pages/detailed_update.php:100
+msgid "Reset"
+msgstr "Resetear"
+
+#: ../pages/detailed.php:91 ../pages/detailed_update.php:116
+msgid "Date"
+msgstr "Fecha"
+
+#: ../pages/detailed.php:109 ../pages/detailed_update.php:351
+msgid "Social security no."
+msgstr "Nº de identificación del paciente"
+
+#: ../pages/detailed.php:116
+msgid "Toggle detailed information"
+msgstr "Alternar información detallada"
+
+#: ../pages/detailed.php:130 ../pages/detailed_update.php:131
+#: ../pages/detailed_update.php:142
+msgid "Pressure measured"
+msgstr "Presion medida"
+
+#: ../pages/detailed.php:130 ../pages/detailed_update.php:131
+#: ../pages/detailed_update.php:142
+msgid "mmHg"
+msgstr "mmHg"
+
+#: ../pages/detailed.php:134 ../pages/detailed.php:511
+#: ../pages/detailed_update.php:132 ../pages/detailed_update.php:145
+#: ../pages/detailed_update.php:484
+msgid "Comment from optometrist"
+msgstr "Comentario"
+
+#: ../pages/detailed.php:256
+msgid "Why have you requested an assessment?"
+msgstr "¿Por qué solicitó una evaluación?"
+
+#: ../pages/detailed.php:374 ../pages/detailed.php:384
+#: ../pages/detailed_update.php:355 ../pages/detailed_update.php:360
+msgid "Download photo with overlay"
+msgstr "Descargar foto con superposición"
+
+#: ../pages/detailed.php:378 ../pages/detailed.php:388
+#: ../pages/detailed_update.php:356 ../pages/detailed_update.php:361
+msgid "Download photo without overlay"
+msgstr "Descargar foto sin superposición"
+
+#: ../pages/detailed.php:394 ../pages/detailed.php:400
+msgid "Print result document"
+msgstr "Imprimir resultado"
+
+#: ../pages/detailed.php:410 ../pages/detailed_update.php:370
+msgid "Send a response to the optometrist"
+msgstr "Enviar una respuesta a la/el optometrista"
+
+#: ../pages/detailed.php:416
+msgid "DR"
+msgstr "RD"
+
+#: ../pages/detailed.php:425
+msgid "AMD"
+msgstr "DMAE"
+
+#: ../pages/detailed.php:432
+msgid "Please use English"
+msgstr "Por favor utilice inglés"
+
+#: ../pages/detailed.php:434
+#, php-format
+msgid "Please use %userlang% or English"
+msgstr "Por favor, use %userlang% o inglés"
+
+#: ../pages/detailed.php:438 ../pages/detailed_update.php:418
+#: ../pages/send_response.php:8
+msgid "Send response"
+msgstr "Enviar respuesta"
+
+#: ../pages/detailed.php:449 ../pages/detailed_update.php:429
+msgid "Awaiting response"
+msgstr "Esperando respuesta"
+
+#: ../pages/detailed.php:453 ../pages/detailed_update.php:433
+msgid "Response"
+msgstr "Respuesta"
+
+#: ../pages/detailed.php:454
+msgid "A response from an eye-specialist was received."
+msgstr "Se recibió una respuesta de un especialista ocular."
+
+#: ../pages/detailed_update.php:257
+msgid "Why do you want to get an assessment?"
+msgstr "¿Por qué desea obtener una evaluación?"
+
+#: ../pages/detailed_update.php:434
+msgid "Received response from ophtalmologist."
+msgstr "Respuesta recibida del oftalmólogo."
+
+#: ../pages/detailed_update.php:481
+msgid "Comment from ophthalmologist"
+msgstr "Comentario"
+
+#: ../pages/editchains.php:62 ../pages/edituser.php:46 ../pages/profile.php:64
+msgid "The user's data is now changed"
+msgstr "Se cambiaron los datos de usuario"
+
+#: ../pages/editchains.php:73 ../pages/edituser.php:55 ../pages/profile.php:130
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: ../pages/editchains.php:82
+msgid "Chain details"
+msgstr "Detalles de la cadena"
+
+#: ../pages/editchains.php:83
+msgid "Chain name"
+msgstr "Nombre de la cadena"
+
+#: ../pages/editchains.php:84
+msgid "Allow chain admins to access chain users' data"
+msgstr "Permitir que los admins de cadenas accedan a los datos de los usuarios de cadenas"
+
+#: ../pages/editchains.php:85
+msgid "Allow chain users to access other chain users' data"
+msgstr "Permitir que los usuarios de cadenas accedan a los datos de otros usuarios de cadenas"
+
+#: ../pages/editchains.php:88
+msgid "PDF settings"
+msgstr "Configuración de PDF"
+
+#: ../pages/editchains.php:89
+msgid "Show logo"
+msgstr "Mostrar logo"
+
+#: ../pages/editchains.php:90
+msgid "Show company name"
+msgstr "Mostrar nombre de la empresa"
+
+#: ../pages/editchains.php:91
+msgid "Show company address"
+msgstr "Mostrar dirección de la empresa"
+
+#: ../pages/editchains.php:92
+msgid "Show phone number"
+msgstr "Mostrar número de teléfono"
+
+#: ../pages/editchains.php:93
+msgid "Show client name"
+msgstr "Mostrar nombre del cliente"
+
+#: ../pages/editchains.php:94
+msgid "Show client reference"
+msgstr "Mostrar referencia del cliente"
+
+#: ../pages/editchains.php:96
+msgid "PDF logo"
+msgstr "Logo en PDF"
+
+#: ../pages/editchains.php:97 ../pages/start.php:103
+msgid "Select a photo from your computer to upload."
+msgstr "Seleccione una foto de su computadora para subir."
+
+#: ../pages/editchains.php:102
+msgid "Current logo"
+msgstr "Logo actual"
+
+#: ../pages/editchains.php:114
+msgid "Chain is created"
+msgstr "Se creó la cadena"
+
+#: ../pages/editchains.php:121 ../pages/editchains.php:125
+msgid "Create chain"
+msgstr "Crear cadena"
+
+#: ../pages/edituser.php:64
+msgid "User details"
+msgstr "Detalles del usuario"
+
+#: ../pages/edituser.php:66 ../pages/profile.php:105
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+#: ../pages/edituser.php:68
+msgid "Mail address"
+msgstr "Dirección de correo"
+
+#: ../pages/edituser.php:69
+msgid "User type"
+msgstr "Tipo de usuario"
+
+#: ../pages/edituser.php:70
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: ../pages/edituser.php:74
+msgid "Only eye specialist user"
+msgstr "Sólo usuario especialista en oftalmología"
+
+#: ../pages/edituser.php:75
+msgid "AMD analysis enabled"
+msgstr "Análisis de DMAE habilitado"
+
+#: ../pages/edituser.php:77
+msgid "Allow user to save client names"
+msgstr "Permitir que el usuario guarde los nombres del cliente"
+
+#: ../pages/edituser.php:81
+msgid "Get notification mails"
+msgstr "Recibir correos de notificación"
+
+#: ../pages/edituser.php:83 ../pages/profile.php:112
+msgid "User ID"
+msgstr "ID de usuario"
+
+#: ../pages/edituser.php:84
+msgid "Last logon time"
+msgstr "Hora del último inicio de sesión"
+
+#: ../pages/edituser.php:85
+msgid "Creation time"
+msgstr "Hora de creación"
+
+#: ../pages/edituser.php:86 ../pages/profile.php:113
+msgid "API key"
+msgstr "Clave API"
+
+#: ../pages/edituser.php:88 ../pages/profile.php:156
+msgid "Demo details"
+msgstr "Detalles de la demostración"
+
+#: ../pages/edituser.php:89
+msgid "Demo user"
+msgstr "Usuario de demostración"
+
+#: ../pages/edituser.php:90
+msgid "Prepaid user"
+msgstr "Usuario prepago"
+
+#: ../pages/edituser.php:91 ../pages/profile.php:172
+msgid "Number of analysis done"
+msgstr "Cantidad de análisis hechos"
+
+#: ../pages/edituser.php:92 ../pages/profile.php:174
+msgid "Number of analysis left"
+msgstr "Cantidad de análisis que quedan"
+
+#: ../pages/edituser.php:93 ../pages/profile.php:173
+msgid "Limited number of analysis"
+msgstr "Cantidad de análisis limitada"
+
+#: ../pages/edituser.php:94
+msgid "Add number of analysis to total"
+msgstr "Agregar cantidad de análisis al total"
+
+#: ../pages/edituser.php:96
+msgid "Date when limit expires"
+msgstr "Fecha de vencimiento del límite"
+
+#: ../pages/edituser.php:97 ../pages/edituser.php:98
+msgid "Local eye specialist backup"
+msgstr "Respaldo de especialista en ojos local"
+
+#: ../pages/edituser.php:99 ../pages/profile.php:110
+msgid "Timezone"
+msgstr "Zona horaria"
+
+#: ../pages/edituser.php:103
+msgid "Offset"
+msgstr "Compensación"
+
+#: ../pages/edituser.php:104
+msgid "DR offset"
+msgstr "Compensación de RD"
+
+#: ../pages/edituser.php:105
+msgid "AMD offset"
+msgstr "Compensación de DMAE"
+
+#: ../pages/edituser.php:111 ../pages/profile.php:136 ../pages/profile.php:140
+msgid "Company details"
+msgstr "Detalles de la empresa"
+
+#: ../pages/editusers.php:46
+msgid "Found users"
+msgstr "Usuarios encontrados"
+
+#: ../pages/editusers.php:63 ../pages/editusers.php:86
+msgid "Disabled users"
+msgstr "Usuarios deshabilitados"
+
+#: ../pages/editusers.php:79
+msgid "Users outside chains"
+msgstr "Usuarios afuera de las cadenas"
+
+#: ../pages/editusers.php:92 ../pages/editusers.php:98
+msgid "Create region"
+msgstr "Crear región"
+
+#: ../pages/editusers.php:97
+msgid "Region title"
+msgstr "Título de la región"
+
+#: ../pages/editusers.php:109
+msgid "Search for user by username or shop name"
+msgstr "Buscar usuario por nombre de usuario o nombre de tienda"
+
+#: ../pages/login.php:10 ../pages/login.php:22 ../pages/login.php:54
+#: ../sso/index.php:47 ../sso/index.php:56 ../sso/index.php:61
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: ../pages/login.php:25
+msgid "%system% is a tool, which is used to perform eye screenings of the general public."
+msgstr "%system% es una herramienta que se utiliza para llevar a cabo exámenes de los ojos del público en general."
+
+#: ../pages/login.php:27
+msgid "%system% is a tool for automatic screening of diabetic retinopathy."
+msgstr "%system% es una herramienta para la detección automática de la retinopatía diabética."
+
+#: ../pages/login.php:33
+msgid "You've been logged out successfully."
+msgstr "Has salido correctamente."
+
+#: ../pages/login.php:35
+msgid "Incorrect username or password."
+msgstr "Nombre de usuario o contraseña incorrecto."
+
+#: ../pages/login.php:37
+msgid "Please try to login again. Please contact the support if you continue to get this error."
+msgstr "Intente iniciar sesión nuevamente. Póngase en contacto con el soporte si sigue recibiendo este error."
+
+#: ../pages/login.php:39
+msgid "You are not logged in. In order to proceed, please login."
+msgstr "Usted no está conectado, para poder acceder, por favor, inicie la sesión."
+
+#: ../pages/login.php:42
+msgid "Your password has been changed."
+msgstr "Se cambió su contraseña."
+
+#: ../pages/login.php:51
+msgid "By using %system%, you signify your agreement to be bound by the conditions of the Terms of Use"
+msgstr "Al usar %system%, usted expresa su aceptación a estar obligado por las condiciones de los Términos de uso"
+
+#: ../pages/login.php:51
+msgid "Please find the Terms of Use here"
+msgstr "Encuentre los Términos de uso aquí"
+
+#: ../pages/login.php:59 ../sso/index.php:65
+msgid "Need help?"
+msgstr "¿Necesita ayuda?"
+
+#: ../pages/login.php:117 ../sso/index.php:78
+msgid "Opening hours"
+msgstr "Horarios"
+
+#: ../pages/login.php:120 ../sso/index.php:80
+msgid "Monday"
+msgstr "Lunes"
+
+#: ../pages/login.php:124 ../sso/index.php:82
+msgid "Tuesday"
+msgstr "Martes"
+
+#: ../pages/login.php:128 ../sso/index.php:84
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: ../pages/login.php:132 ../sso/index.php:86
+msgid "Thursday"
+msgstr "Jueves"
+
+#: ../pages/login.php:136 ../sso/index.php:88
+msgid "Friday"
+msgstr "Viernes"
+
+#: ../pages/login.php:140 ../sso/index.php:90
+msgid "Saturday"
+msgstr "Sabado"
+
+#: ../pages/login.php:144 ../sso/index.php:92
+msgid "Sunday"
+msgstr "Domingo"
+
+#: ../pages/mailpid.php:9
+msgid "Mail link to photo"
+msgstr "Enviar enlace a la foto por correo electrónico"
+
+#: ../pages/mailpid.php:44
+msgid "Link to photo from %system%"
+msgstr "Enlace a la foto de %system%"
+
+#: ../pages/mailpid.php:44
+msgid "Photo analyzed"
+msgstr "Foto analizada"
+
+#: ../pages/mailpid.php:44
+msgid "You can see the analyzed photo here:"
+msgstr "Aquí puede ver la foto analizada:"
+
+#: ../pages/mailpid.php:45
+msgid "Mail sent"
+msgstr "Correo enviado"
+
+#: ../pages/profile.php:71
+msgid "Password confirmation must match password."
+msgstr "La confirmación de la contraseña debe coincidir con la contraseña."
+
+#: ../pages/profile.php:74
+msgid "Incorrect password"
+msgstr "Contraseña incorrecta"
+
+#: ../pages/profile.php:94 ../pages/profile.php:98
+msgid "User Details"
+msgstr "Detalles del usuario"
+
+#: ../pages/profile.php:104
+msgid "Contact email"
+msgstr "Correo electrónico de contacto"
+
+#: ../pages/profile.php:106 ../pages/profile.php:129
+msgid "Current password"
+msgstr "Contraseña actual"
+
+#: ../pages/profile.php:107
+msgid "New password"
+msgstr "Contraseña nueva"
+
+#: ../pages/profile.php:108
+msgid "New password again"
+msgstr "Contraseña nueva otra vez"
+
+#: ../pages/profile.php:109
+msgid "Preferred language"
+msgstr "Idioma preferido"
+
+#: ../pages/profile.php:111
+msgid "Receive email notifications"
+msgstr "Recibir notificaciones por correo electrónico"
+
+#: ../pages/profile.php:127
+msgid "Secret key"
+msgstr "Clave secreta"
+
+#: ../pages/profile.php:128
+msgid "Generate new secret key"
+msgstr "Generar nueva clave secreta"
+
+#: ../pages/profile.php:158
+msgid "Prepaid details"
+msgstr "Detalles del prepago"
+
+#: ../pages/profile.php:185
+msgid "Terms of Service"
+msgstr "Términos de servicio"
+
+#: ../pages/send_response.php:26
+msgid "Response sent"
+msgstr "Respuesta enviada"
+
+#: ../pages/send_response.php:29
+msgid "Response NOT sent. You have to give a comment, when answering red or yellow."
+msgstr "NO se envió la respuesta. Tiene que poner un comentario, cuando responde rojo o amarillo."
+
+#: ../pages/start.php:84
+msgid "Search among all users"
+msgstr "Buscar entre todos los usuarios"
+
+#: ../pages/start.php:97 ../pages/start.php:115 ../pages/start.php:121
+msgid "Upload photo"
+msgstr "Subir foto"
+
+#: ../pages/start.php:113
+msgid "Read instructions before using"
+msgstr "Lea las instrucciones antes de usar"
+
+#: ../pages/statistics.php:46
+msgid "Download CSV file with statistics for all countries"
+msgstr "Descargar archivo CSV con estadísticas para todos los países"
+
+#: ../pages/statistics.php:52
+msgid "Download CSV file with statistics for users outside chains"
+msgstr "Descargar archivo CSV con estadísticas para los usuarios afuera de las cadenas"
+
+#: ../pages/statistics.php:58
+msgid "Download CSV file with statistics for all users"
+msgstr "Descargar archivo CSV con estadísticas para todos los usuarios"
+
+#: ../pages/statistics.php:66 ../pages/statistics.php:68
+msgid "Download CSV file with statistics for this user"
+msgstr "Descargar archivo CSV con estadísticas para este usuario"
+
+#: ../sso/index.php:75
+msgid "Denmark"
+msgstr "Dinamarca"

@@ -4,3 +4,9 @@ Homestead.json
 Homestead.yaml
 .env
 .phpunit.result.cache
+/.buildpath
+/.editorconfig
+/.project
+/.styleci.yml
+/composer.phar
+org.eclipse.*

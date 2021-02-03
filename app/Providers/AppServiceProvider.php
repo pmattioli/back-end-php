@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use RetinaLyze\Chain\ChainEditor;
 use RetinaLyze\Users\UserEditor;
 
 class AppServiceProvider extends ServiceProvider
@@ -16,6 +17,9 @@ class AppServiceProvider extends ServiceProvider
     {
         $this->app->singleton(UserEditor::class, function ($app) {
             return new UserEditor();
+        });
+        $this->app->singleton(ChainEditor::class, function ($app) {
+            return new ChainEditor();
         });
     }
 }

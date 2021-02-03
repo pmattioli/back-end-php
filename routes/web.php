@@ -23,6 +23,26 @@ $router->group(['prefix' => 'users'], function () use ($router) {
     
     $router->get('find/{term}', ['uses' => 'UsersController@findUsers']);
     
+    $router->get('chain/{chainID}', ['uses' => 'UsersController@getUsersFromChain']);
+    
+    $router->get('chain/{chainID}/disabled', ['uses' => 'UsersController@getDisabledUsersFromChain']);
+    
+    $router->get('country/{country}', ['uses' => 'UsersController@getUsersFromCountryOutsideChain']);
+    
+    $router->get('country/{country}/disabled', ['uses' => 'UsersController@getDisabledUsersFromCountryOutsideChain']);
+    
+    $router->get('info', ['uses' => 'UsersController@getUserInfo']);
+    
+    $router->post('/', ['uses' => 'UsersController@saveUserDetails']);
+    
+    $router->put('password', ['uses' => 'UsersController@changePassword']);
+    
+});
+
+$router->group(['prefix' => 'chains'], function () use ($router) {
+    
+    $router->put('/',  ['uses' => 'ChainController@updateChainInfo']);
+        
 });
 
 $router->group(['prefix' => 'auth'], function () use ($router) {

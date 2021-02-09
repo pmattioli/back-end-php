@@ -42,6 +42,8 @@ $router->group(['prefix' => 'users'], function () use ($router) {
 $router->group(['prefix' => 'chains'], function () use ($router) {
     
     $router->put('/',  ['uses' => 'ChainController@updateChainInfo']);
+    
+    $router->put('updateLogoFilePathPDFSettings',  ['uses' => 'ChainController@updateLogoFilePathPDFSettings']);
         
 });
 
